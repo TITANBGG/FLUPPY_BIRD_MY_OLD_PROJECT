@@ -1,0 +1,6 @@
+C:\Users\alinebierreset\Desktop\Bird_Game\obj\Debug\Bird_Game.csproj.AssemblyReference.cache
+C:\Users\alinebierreset\Desktop\Bird_Game\obj\Debug\Bird_Game.Form1.resources
+C:\Users\alinebierreset\Desktop\Bird_Game\obj\Debug\Bird_Game.Properties.Resources.resources
+C:\Users\alinebierreset\Desktop\Bird_Game\obj\Debug\Bird_Game.csproj.GenerateResource.cache
+C:\Users\alinebierreset\Desktop\Bird_Game\obj\Debug\Bird_Game.csproj.CoreCompileInputs.cache
+C:\Users\alinebierreset\Desktop\Bird_Game\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
